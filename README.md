@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Reflecteren
 - 👀 I have 5 years experience with LUA.
 - 🌱 I’m currently learning HTML5, CSS, JavaScript and Bootstrap.
-- 📫 You can reache me on discord (Reflecteren#8300).
+- 📫 You can reach me on discord (Reflecteren#8300).
